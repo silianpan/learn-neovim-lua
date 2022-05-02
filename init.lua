@@ -22,7 +22,8 @@ require("plugin-config.surround")
 require("plugin-config.comment")
 require("plugin-config.nvim-autopairs")
 -- Git
--- require("plugin-config.gitsigns")
+require("plugin-config.gitsigns")
+require("plugin-config.git-blame")
 -- 内置LSP
 require("lsp.setup")
 require("lsp.cmp")

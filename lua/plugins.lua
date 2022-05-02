@@ -131,6 +131,8 @@ packer.startup({
     use("windwp/nvim-autopairs")
     -- git
     use({ "lewis6991/gitsigns.nvim" })
+    -- git-blame
+    use({ "f-person/git-blame.nvim" })
     -- vimspector
     use("puremourning/vimspector")
     ----------------------------------------------
