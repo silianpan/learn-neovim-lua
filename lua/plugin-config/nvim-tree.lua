@@ -10,7 +10,7 @@ end
 local list_keys = require("keybindings").nvimTreeList
 
 nvim_tree.setup({
-  -- 新增配置
+  -- 2022-05-06新增
   open_on_setup = true,
   open_on_setup_file = true,
   -- 不显示 git 状态图标
